@@ -1,4 +1,4 @@
-package com.example.pscwww.barcode;
+ package com.example.pscwww.barcode;
 
 import android.app.Activity;
 import android.app.AlertDialog;
